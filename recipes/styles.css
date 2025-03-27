@@ -1,0 +1,11 @@
+div
+{
+    color: yellow;
+    text-align: center;
+    background-color: black;
+}
+
+div.img
+{
+    align-items: center;
+}
